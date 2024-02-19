@@ -1,6 +1,6 @@
 <template>
     <div class="Q3"  align="center">
-      <h1>ข้อที่ 3</h1>
+      <h1>ข้อที่ 3  จงทายคำจากภาพที่กำหนดให้</h1>
       <img src="../assets/temple.jpg" width="400" height="300">
       <img src="../assets/blackback.jpg" width="400"  height="300">
       <img src="../assets/snake.jpg" width="400" height="300">

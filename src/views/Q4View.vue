@@ -1,6 +1,6 @@
 <template>
     <div class="Q4"  align="center">
-      <h1>ข้อที่ 4</h1>
+      <h1>ข้อที่ 4  จงทายคำจากภาพที่กำหนดให้</h1>
       <img src="../assets/actor.jpg" width="500" height="300">
       <img src="../assets/songkran.jpg" width="400"  height="300">
       <h3>3 พยางค์</h3>
